@@ -1,5 +1,5 @@
 import './scss/style.scss';
-import Hero from './components/Hero';
+// import Hero from './components/Hero';
 
 function App() {
   return (

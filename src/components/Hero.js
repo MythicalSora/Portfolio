@@ -18,7 +18,7 @@ export default class Hero extends React.Component {
                   </div>
                   <div id="navbarMenuHeroB" class="navbar-menu">
                     <div class="navbar-end">
-                      <a class="navbar-item">
+                      {/* <a class="navbar-item">
                         Home
                       </a>
                       <a class="navbar-item">
@@ -29,7 +29,7 @@ export default class Hero extends React.Component {
                       </a>
                       <a class="navbar-item">
                         About Me
-                      </a>
+                      </a> */}
                       <span class="navbar-item">
                         <a href="https://github.com/MythicalSora/Portfolio" class="button is-info is-inverted">
                           <span class="icon">
