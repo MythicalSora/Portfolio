@@ -1,20 +1,10 @@
 import './scss/style.scss';
+import Hero from './components/Hero';
 
 function App() {
   return (
     <div className="App">
-      <header className="hero is-info is-fullheight">
-        <div className="hero-body">
-          <div className="">
-            <p className="title">
-              MythicalSora.dev
-            </p>
-            <p className="subtitle">
-              Under Construction
-            </p>
-          </div>
-        </div>
-      </header>
+
     </div>
   );
 }
