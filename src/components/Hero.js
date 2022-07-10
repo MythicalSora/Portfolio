@@ -31,7 +31,7 @@ export default class Hero extends React.Component {
                         About Me
                       </a>
                       <span class="navbar-item">
-                        <a class="button is-info is-inverted">
+                        <a href="https://github.com/MythicalSora/Portfolio" class="button is-info is-inverted">
                           <span class="icon">
                             <Icon path={mdiGithub}/>
                           </span>
